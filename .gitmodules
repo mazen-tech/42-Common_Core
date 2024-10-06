@@ -10,3 +10,6 @@
 [submodule "Born2beroot.sh"]
 	path = Born2beroot.sh
 	url = https://github.com/mazen-tech/Born2beroot.sh.git
+[submodule "minitalk.c"]
+	path = minitalk.c
+	url = https://github.com/mazen-tech/minitalk.c.git
