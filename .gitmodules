@@ -1,3 +1,6 @@
 [submodule "libft-llibrary.c"]
 	path = libft-llibrary.c
 	url = https://github.com/mazen-tech/libft-llibrary.c.git
+[submodule "ft_printf.c"]
+	path = ft_printf.c
+	url = https://github.com/mazen-tech/ft_printf.c.git
