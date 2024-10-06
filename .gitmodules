@@ -16,3 +16,6 @@
 [submodule "push_swap.c"]
 	path = push_swap.c
 	url = https://github.com/mazen-tech/push_swap.c.git
+[submodule "so_long.c"]
+	path = so_long.c
+	url = https://github.com/mazen-tech/so_long.c.git
