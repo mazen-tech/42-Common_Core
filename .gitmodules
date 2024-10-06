@@ -4,3 +4,6 @@
 [submodule "ft_printf.c"]
 	path = ft_printf.c
 	url = https://github.com/mazen-tech/ft_printf.c.git
+[submodule "get_next_line.c"]
+	path = get_next_line.c
+	url = https://github.com/mazen-tech/get_next_line.c.git
